@@ -49,5 +49,5 @@ def create_dictionary(clean_list):
     top = c.most_common(10)
     print(top)
 
-    if __name__ == '__main__':
-        start("https://www.linkedin.com/in/cyro-gabriel")
+if __name__ == '__main__':
+    start("https://www.linkedin.com/in/cyro-gabriel")
