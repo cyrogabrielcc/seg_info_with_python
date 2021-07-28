@@ -11,6 +11,7 @@ Curso de Segurança da Informação com Python
 - webcrowler
 - gerador de wordlists
 - Verificador de IP externo 
+- Ferramenta gráfica para abrir navegador
 
 
 
